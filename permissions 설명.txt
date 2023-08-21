@@ -1,0 +1,6 @@
+activeTab: 현재 열려있는 탭의 웹 사이트에 대한 조작 허용
+storage: 브라우저의 내부 저장소의 데이터 저장, 불러오기 허용
+cookies: 브라우저의 쿠키에 접근하는 것을 허용
+webReuqest, webRequestBlocking: 네트워크 요청을 모니터링하고 수정
+tabs: 브라우저의 탭을 열거나 관리 허용, 탭의 URL 변경 허용
+notifications: 브라우저 알림 생성 허용
