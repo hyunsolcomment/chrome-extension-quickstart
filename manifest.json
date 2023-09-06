@@ -19,11 +19,9 @@
   },
   "content_scripts": [
     {
-      "js": ["scripts/content.js"],
-      "matches": [
-        "http://*/*",
-        "https://*/*"
-      ]
+      "matches": ["<all_urls>"],
+      "js": ["content.js"],
+      "run_at": "document_end"
     }
   ],
   "background": {
